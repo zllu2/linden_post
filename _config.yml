@@ -8,4 +8,4 @@ github_username:  zllu2_github
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minimal
